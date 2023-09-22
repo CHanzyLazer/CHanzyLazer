@@ -6,7 +6,8 @@
 
 <br/>
 
-- **Programming Language preferences:** matlab > java > c++ >> python
+- **Programming Language preferences:**
+  - matlab > java > c++ >> python
 - **Researching/Intereting Field:**
   - Molecular Dynamics Simulation
   - High-through/Parallel Computation

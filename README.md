@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm [CHanzyLazer!](https://space.bilibili.com/5104148) 👋 
 
-<!--
-**CHanzyLazer/CHanzyLazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Programming to calculate physical problems.
+- 💗 Preferring programming itself and willing to improve programming skills.
+- 🍰 Also doing some other development.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Language preferences:** matlab > java > c++ >> python
+- **Researching/Intereting Field:**
+  - Molecular Dynamics Simulation
+  - High-through/Parallel Computation
+  - Minecraft Mod Development
+  - Quantum Many-Body Physics Caculation
+  - Monte Carlo Simulation
+  - First-Principle/ab-initio Caculation
+  - Mathematical Modeling
+  - Machine Learning
